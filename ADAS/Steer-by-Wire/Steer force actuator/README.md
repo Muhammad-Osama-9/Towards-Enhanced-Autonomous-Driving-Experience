@@ -7,7 +7,7 @@
 
 * Dc Motor 775
 * HW-039 Motor Driver (High Amp)
-* Rotary Encoder
+* Rotary Encoder KY-040
 * EEPROM 24C04
 
 
